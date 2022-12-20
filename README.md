@@ -1,4 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/56781844/173817836-3404fe87-31f1-40d6-87a6-d25f9e9933ec.gif)
+![muintro](https://user-images.githubusercontent.com/56781746/208604619-904430d2-290d-41a9-a96f-bfaf587e304f.gif)
 
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
